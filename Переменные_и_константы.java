@@ -9,6 +9,5 @@ public class Переменные_и_константы { // Имя файла
         System.out.println(z);
         final var q = 93; // Объявление константы
         System.out.println(q);
-
     }
 }
