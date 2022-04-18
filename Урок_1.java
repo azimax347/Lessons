@@ -1,4 +1,4 @@
-public class Переменные_и_константы { // Имя файла
+public class Урок_1 { // Имя файла
     public static void main(String[] args) {
         int x; // Объявление переменной
         x = 10; // Присвоение значения
