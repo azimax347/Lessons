@@ -9,5 +9,7 @@ public class Урок_1 { // Имя файла
         System.out.println(z);
         final var q = 93; // Объявление константы
         System.out.println(q);
+        String h = "hello world";
+        System.out.println(h);
     }
 }
