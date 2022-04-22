@@ -28,6 +28,6 @@ public class Урок_4 {
             default:
                 System.out.println("Число равно " + z);
         }
-
+        skan.close();
     }
 }
