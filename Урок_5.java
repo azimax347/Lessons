@@ -7,10 +7,8 @@ public class Урок_5 {
 
         for (int i = 1; i < 9; i++) { // Цикл for ([инициализация счетчика]; [условие]; [изменение счетчика])
 
-            int x = test + 10;
-            System.out.print(x + " ");
-            test = x;
-
+            test += 10;
+            System.out.print(test + " ");
         }
 
         do { /*
