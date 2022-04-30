@@ -6,6 +6,7 @@ public class урок_10 {
         Scanner skan = new Scanner(System.in);
         System.out.println("Выберите способ. \n 1 - Без ключевого слова \n 2 - С ключевым словом this");
         final int nom = skan.nextInt();
+        skan.close();
         if (nom == 1 || nom == 2) {
             test1(nom);
         }
